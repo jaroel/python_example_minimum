@@ -1,0 +1,3 @@
+python -m venv . && ./bin/pip install -r requirements.txt
+./bin/python main.py
+curl http://localhost:8080/hello/world
